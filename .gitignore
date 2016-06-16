@@ -1,0 +1,5 @@
+# notify_xmpp.git/.gitignore
+
+/doc/*.html
+/src/
+/t/
